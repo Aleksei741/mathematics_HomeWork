@@ -19,7 +19,7 @@ print(x3, y3)
 
 
 
-x = np.linspace(-3, 6, 100)
+x = np.linspace(-2, 4.5, 100)
 
 y1 = []
 y2 = []
